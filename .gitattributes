@@ -1,4 +1,2 @@
-oximeter/* linguist-vendored
-passport/* linguist-vendored
-redhat/* linguist-vendored
+*.html linguist-detectable=false
 
